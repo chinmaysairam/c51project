@@ -1,0 +1,18 @@
+*{
+    border:solid
+}
+h1{
+    color:#9da
+}
+h2,p{
+    color:rgb(250, 78, 150)
+}
+.mydetails{
+    display:flex;
+    background-color:orange;
+    justify-content:space-evenly ;
+}
+.imggrid{
+    display:flex;
+    justify-content: space-between;
+}
